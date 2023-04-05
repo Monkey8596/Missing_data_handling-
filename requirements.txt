@@ -15,3 +15,7 @@ pandas
 pip
 plotly
 seaborn
+missingno
+pyreadr
+session_info
+upsetplot
