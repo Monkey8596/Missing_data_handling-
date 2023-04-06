@@ -1,3 +1,4 @@
+pip install --upgrade pip
 pyjanitor
 missingno
 numpy
@@ -8,3 +9,4 @@ seaborn
 session-info
 upsetplot==0.6.1
 nbformat
+
