@@ -9,13 +9,21 @@ source env/bin/activate
 
 ```
 
+## Donwload 
+
 ```bash
 git pull
 ```
 
 ```bash
+pip install --upgrade pip
+```
+
+```bash
 pip3 install -r requirements.txt
 ```
+
+
 ## Project organization
 
     Title
